@@ -1,0 +1,149 @@
+INPUT
+George Mason
+2999
+8
+17.5
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 0h 49m 59s
+The angles of the three hands are 24.99167 299.9 354 degrees or 0.43619 5.23424 6.17846 radians
+The angle between the hour hand and the minutes hand is 85.09167 degrees or 1.48513 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 11.88103 sq. inches or 0.00767 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 17.78242 degrees or 0.31036 radians
+Have a good day George Mason!
+
+INPUT
+George Washington
+4000
+9
+10.9
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 1h 6m 40s
+The angles of the three hands are 33.33333 40.0 240 degrees or 0.58178 0.69813 4.18879 radians
+The angle between the hour hand and the minutes hand is 6.66667 degrees or 0.11636 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 1.1781 sq. inches or 0.00076 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 4.54507 degrees or 0.07933 radians
+Have a good day George Washington!
+
+INPUT
+Alexander Hamilton
+10654
+10
+30.11
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 2h 57m 34s
+The angles of the three hands are 88.78333 345.4 204 degrees or 1.54956 6.02836 3.56047 radians
+The angle between the hour hand and the minutes hand is 103.38333 degrees or 1.80438 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 22.55473 sq. inches or 0.01455 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 11.40326 degrees or 0.19902 radians
+Have a good day Alexander Hamilton!
+
+INPUT
+Benjamin Franklin
+12345
+11
+15.05
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 3h 25m 45s
+The angles of the three hands are 102.875 154.5 270 degrees or 1.79551 2.69653 4.71238 radians
+The angle between the hour hand and the minutes hand is 51.625 degrees or 0.90103 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 13.62801 sq. inches or 0.00879 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 27.57861 degrees or 0.48134 radians
+Have a good day Benjamin Franklin!
+
+INPUT
+John Adams
+15678
+12
+12.2
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 4h 21m 18s
+The angles of the three hands are 130.65 127.8 108 degrees or 2.28027 2.23053 1.88495 radians
+The angle between the hour hand and the minutes hand is 2.85 degrees or 0.04974 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 0.89535 sq. inches or 0.00058 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 2.75732 degrees or 0.04812 radians
+Have a good day John Adams!
+
+INPUT
+Samuel Adams
+19999
+13.005
+14
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 5h 33m 19s
+The angles of the three hands are 166.65833 199.9 114 degrees or 2.90873 3.48891 1.98967 radians
+The angle between the hour hand and the minutes hand is 33.24167 degrees or 0.58018 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 12.26565 sq. inches or 0.00791 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 28.68451 degrees or 0.50064 radians
+Have a good day Samuel Adams!
+
+INPUT
+Thomas Jefferson
+24581
+14.333
+28
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 6h 49m 41s
+The angles of the three hands are 204.84167 298.1 246 degrees or 3.57516 5.20282 4.29351 radians
+The angle between the hour hand and the minutes hand is 93.25833 degrees or 1.62766 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 41.79736 sq. inches or 0.02697 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 24.43688 degrees or 0.4265 radians
+Have a good day Thomas Jefferson!
+
+INPUT
+James Madison
+25200
+15.2
+23
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 7h 0m 0s
+The angles of the three hands are 210.0 0.0 0 degrees or 3.66519 0.0 0.0 radians
+The angle between the hour hand and the minutes hand is 150.0 degrees or 2.61799 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 75.6076 sq. inches or 0.04878 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 65.51229 degrees or 1.1434 radians
+Have a good day James Madison!
+
+INPUT
+John Jay
+34567
+16.49
+38
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 9h 36m 7s
+The angles of the three hands are 288.05833 216.7 42 degrees or 5.02756 3.78213 0.73304 radians
+The angle between the hour hand and the minutes hand is 71.35833 degrees or 1.24544 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 42.33241 sq. inches or 0.02731 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 13.43751 degrees or 0.23453 radians
+Have a good day John Jay!
+
+INPUT
+John Hancock
+43000
+17.55
+59
+
+OUTPUT
+Welcome to CS 112
+What's your name? What is the time in seconds? The time is 11h 56m 40s
+The angles of the three hands are 358.33333 340.0 240 degrees or 6.25409 5.93411 4.18879 radians
+The angle between the hour hand and the minutes hand is 18.33333 degrees or 0.31998 radians
+What is the diameter of the clock in inches? The area of the slice between the hour hand and the minutes hand is 12.31921 sq. inches or 0.00795 sq. meters
+What is the new diameter of the clock in inches? The new angle between the hour hand and the minutes hand must be 1.62215 degrees or 0.02831 radians
+Have a good day John Hancock!
